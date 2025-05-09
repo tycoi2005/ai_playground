@@ -1,6 +1,6 @@
 # ai_playground
 
-## Dino play with hand gesture
+## Play Dino with hand gesture
 
 This is my first experience with MediaPipe, a powerful framework for applying Artificial Intelligence and Machine Learning.
 
